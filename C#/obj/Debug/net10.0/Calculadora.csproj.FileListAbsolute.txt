@@ -1,0 +1,15 @@
+/workspaces/Multi-calculadora/C#/bin/Debug/net10.0/Calculadora
+/workspaces/Multi-calculadora/C#/bin/Debug/net10.0/Calculadora.deps.json
+/workspaces/Multi-calculadora/C#/bin/Debug/net10.0/Calculadora.runtimeconfig.json
+/workspaces/Multi-calculadora/C#/bin/Debug/net10.0/Calculadora.dll
+/workspaces/Multi-calculadora/C#/bin/Debug/net10.0/Calculadora.pdb
+/workspaces/Multi-calculadora/C#/obj/Debug/net10.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Multi-calculadora/C#/obj/Debug/net10.0/Calculadora.AssemblyInfoInputs.cache
+/workspaces/Multi-calculadora/C#/obj/Debug/net10.0/Calculadora.AssemblyInfo.cs
+/workspaces/Multi-calculadora/C#/obj/Debug/net10.0/Calculadora.csproj.CoreCompileInputs.cache
+/workspaces/Multi-calculadora/C#/obj/Debug/net10.0/Calculadora.sourcelink.json
+/workspaces/Multi-calculadora/C#/obj/Debug/net10.0/Calculadora.dll
+/workspaces/Multi-calculadora/C#/obj/Debug/net10.0/refint/Calculadora.dll
+/workspaces/Multi-calculadora/C#/obj/Debug/net10.0/Calculadora.pdb
+/workspaces/Multi-calculadora/C#/obj/Debug/net10.0/Calculadora.genruntimeconfig.cache
+/workspaces/Multi-calculadora/C#/obj/Debug/net10.0/ref/Calculadora.dll
